@@ -27,8 +27,11 @@ Late nights in the middle of June
 Heat waves been faking me out
 Can't make you happier now
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
+=======
+>>>>>>> origin/main
 You can't fight it, you can't breathe
 You say something so loving, but
 Now I gotta let you go
@@ -64,5 +67,9 @@ Can't make you happier now
 Road shimmer wiggling the vision
 Heat, heat waves, I'm swimming in a mirror
 Road shimmer wiggling the vision
+<<<<<<< HEAD
 Heat, heat waves, I'm swimming in a mirror
 >>>>>>> 86d08c02a0d7209dad47a25c1f1d2f03ba4a2d25
+=======
+Heat, heat waves, I'm swimming in a mirror
+>>>>>>> origin/main
